@@ -1,50 +1,50 @@
 [
   {
     "coffee_id": 1,
-    "coffee_title": "Espresso",
-    "coffee_detail": "Espresso adalah ekstrak biji kopi murni dengan rasa yang kuat, pekat, dan aroma yang kaya. Disajikan dalam porsi kecil (shot) sebagai dasar dari berbagai minuman kopi lainnya.",
-    "coffee_thumbnails": "espresso_thumb.jpg",
-    "coffee_poster": "espresso_poster.jpg",
-    "color": "#4A2C2A"
-  },
-  {
-    "coffee_id": 2,
-    "coffee_title": "Americano",
-    "coffee_detail": "Americano dibuat dengan mencampurkan espresso dan air panas. Menghasilkan rasa kopi hitam yang kaya namun lebih halus dibanding espresso murni.",
-    "coffee_thumbnails": "americano_thumb.jpg",
-    "coffee_poster": "americano_poster.jpg",
-    "color": "#3B2219"
-  },
-  {
-    "coffee_id": 3,
     "coffee_title": "Cappuccino",
     "coffee_detail": "Minuman klasik asal Italia yang memadukan espresso, susu steamed, dan foam susu tebal di atasnya dalam rasio yang seimbang.",
-    "coffee_thumbnails": "cappuccino_thumb.jpg",
+    "coffee_thumbnails": "cappuccino_thumbnail.png",
     "coffee_poster": "cappuccino_poster.jpg",
     "color": "#B5651D"
   },
   {
-    "coffee_id": 4,
+    "coffee_id": 2,
     "coffee_title": "Caffè Latte",
     "coffee_detail": "Perpaduan espresso dengan jumlah susu cair hangat yang lebih banyak dan sedikit lapisan foam halus di atasnya. Cenderung lebih creamy dan milky.",
-    "coffee_thumbnails": "latte_thumb.jpg",
-    "coffee_poster": "latte_poster.jpg",
+    "coffee_thumbnails": "caffe_latte_thumbnail.png",
+    "coffee_poster": "caffe_latte_poster.jpg",
     "color": "#C48B57"
   },
   {
-    "coffee_id": 5,
-    "coffee_title": "Mocha Latte",
+    "coffee_id": 3,
+    "coffee_title": "Caffè Mocha",
     "coffee_detail": "Kombinasi lezat antara espresso, saus cokelat pekat, dan susu hangat. Pilihan tepat bagi pecinta rasa manis pahit cokelat dan kopi.",
-    "coffee_thumbnails": "mocha_thumb.jpg",
-    "coffee_poster": "mocha_poster.jpg",
+    "coffee_thumbnails": "caffe_mocha_thumbnail.png",
+    "coffee_poster": "caffe_mocha_poster.jpg",
     "color": "#5D4037"
   },
   {
-    "coffee_id": 6,
+    "coffee_id": 4,
     "coffee_title": "Caramel Macchiato",
     "coffee_detail": "Minuman kopi berlapis dengan sirup vanilla, susu segar, espresso, serta guyuran saus karamel di atas busa susunya.",
-    "coffee_thumbnails": "macchiato_thumb.jpg",
-    "coffee_poster": "macchiato_poster.jpg",
+    "coffee_thumbnails": "caramel_macchiato_thumbnail.png",
+    "coffee_poster": "caramel_macchiato_poster.jpg",
     "color": "#A0522D"
+  },
+  {
+    "coffee_id": 5,
+    "coffee_title": "Coffee Frappuccino",
+    "coffee_detail": "Kopi blend dingin yang menyegarkan dikocok dan disajikan halus bersama es batu.",
+    "coffee_thumbnails": "coffee_frappuccino_thumbnail.png",
+    "coffee_poster": "coffee_frappuccino_poster.jpg",
+    "color": "#4A2C2A"
+  },
+  {
+    "coffee_id": 6,
+    "coffee_title": "Cold Brew",
+    "coffee_detail": "Kopi yang diseduh dengan air dingin selama belasan jam, menghasilkan rasa kopi yang sangat halus dan tidak terlalu asam.",
+    "coffee_thumbnails": "cold_brew_thumbnail.png",
+    "coffee_poster": "cold_brew_poster.jpg",
+    "color": "#2C1A1D"
   }
 ]
